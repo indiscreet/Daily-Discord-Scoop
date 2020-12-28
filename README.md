@@ -22,7 +22,7 @@ This project provides a simple means of getting updated regarding the weather, C
 - Python
 - ~~Electricity~~
 
-[Back To The Top](#read-me-template)
+[Back To The Top](#table-of-contents)
 
 ---
 
@@ -38,7 +38,7 @@ pip install -r requirements.txt
 
 I suggest either creating a custom crontab or modifying the current base code to run every X hours.
 
-[Back To The Top](#read-me-template)
+[Back To The Top](#table-of-contents)
 
 ---
 
@@ -49,4 +49,4 @@ I suggest either creating a custom crontab or modifying the current base code to
 - Snapchat - [modder](https://snapchat.com/add/modder)
 - Website - [James Q Quick](https://jamesqquick.com)
 
-[Back To The Top](#read-me-template)
+[Back To The Top](#table-of-contents)
