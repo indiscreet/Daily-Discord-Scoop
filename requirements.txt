@@ -1,0 +1,4 @@
+discord-webhook
+alpha_vantage
+humanize
+alpha_vantage
