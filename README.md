@@ -47,6 +47,5 @@ I suggest either creating a custom crontab or modifying the current base code to
 - Twitter - [@Gawk](https://twitter.com/gawk)
 - Instagram - [@Cremated](https://instagram.com/cremated)
 - Snapchat - [modder](https://snapchat.com/add/modder)
-- Website - [James Q Quick](https://jamesqquick.com)
 
 [Back To The Top](#table-of-contents)
