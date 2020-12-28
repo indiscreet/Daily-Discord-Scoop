@@ -1,6 +1,6 @@
 # Discord Daily Scoop
 
-> A simple project for getting daily info via Discord webhooks.
+>  A simple project for getting daily info via Discord webhooks.
 
 ---
 
